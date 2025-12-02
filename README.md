@@ -185,7 +185,8 @@ visualize_denoising(model, test_loader)
 <img width="378" height="145" alt="image" src="https://github.com/user-attachments/assets/e2174a23-1492-4866-bc27-c3c50e984b20" />
 
 ## Original vs Noisy Vs Reconstructed Image
-<img width="998" height="367" alt="image" src="https://github.com/user-attachments/assets/1d9286cc-38ef-49ed-b079-18ba795d5dda" />
+![WhatsApp Image 2025-12-02 at 11 12 47 AM](https://github.com/user-attachments/assets/7b45875a-53f4-4783-bb11-c245b1d95da1)
+
 
 
 ## RESULT
